@@ -11,6 +11,6 @@ Lo anterior instalará todas las dependencias. Para ejecutar el programa deberá
 npm start
 ```
 
-Puedes probar si funciona, al entrar a localhost:3000 desde tu explorador preferido
+Puedes probar si funciona, al entrar a **localhost:3000** desde tu explorador preferido
 
 Hecho con :heart: para la BUAP
